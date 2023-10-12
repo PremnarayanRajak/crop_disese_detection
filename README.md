@@ -1,2 +1,2 @@
 # crop_disese_detection
-this is ml project which help to farmers to identify whether the crop/plant is health or not
+This software is about how we can use the Deep Learning Models to detect and classify the diseases of plants and help the farmers through Expert videos and suggest instant remedies to overcome the loss of plants and fields.
